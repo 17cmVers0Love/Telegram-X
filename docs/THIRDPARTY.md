@@ -9,7 +9,7 @@
 * [lz4](https://github.com/lz4/lz4): used for storing cached frames of animated stickers
 * [WebP](https://developers.google.com/speed/webp): used for showing static stickers on Android versions below 4.4
 
-* [ExoPlayer](https://github.com/google/ExoPlayer): used for audio and video playback on supported devices
+* [vlcPlayer](https://github.com/videolan/vlc-android): used for audio and video playback on supported devices
 * [libvpx](https://chromium.googlesource.com/webm/libvpx): vp9 ExoPlayer extension
 * [flac](https://xiph.org/flac): flac ExoPlayer extension
 * [ffmpeg](http://ffmpeg.org): used for GIF playback & ffmpeg ExoPlayer extension
